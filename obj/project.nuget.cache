@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rj3ZaA5iYP1s2XGMZDyZNC3ehTfKPwAyPUTLgVqgZK04dVvj8DnINB45dizhrznWC4juFH2ZvnJS3UlHcjViVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Atakan Berkant Başar\\OneDrive\\Desktop\\Desktop\\Asp_net\\FormsApp\\FormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atakan Berkant Başar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atakan Berkant Başar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atakan Berkant Başar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atakan Berkant Başar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

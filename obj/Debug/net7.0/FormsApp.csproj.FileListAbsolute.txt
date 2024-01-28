@@ -1,0 +1,61 @@
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/bin/Debug/net7.0/appsettings.json
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/bin/Debug/net7.0/FormsApp.staticwebassets.runtime.json
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/bin/Debug/net7.0/FormsApp
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/bin/Debug/net7.0/FormsApp.deps.json
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/bin/Debug/net7.0/FormsApp.runtimeconfig.json
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/bin/Debug/net7.0/FormsApp.dll
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/bin/Debug/net7.0/FormsApp.pdb
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.csproj.AssemblyReference.cache
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.AssemblyInfoInputs.cache
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.AssemblyInfo.cs
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.csproj.CoreCompileInputs.cache
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.RazorAssemblyInfo.cache
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.RazorAssemblyInfo.cs
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/staticwebassets/msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/staticwebassets/msbuild.build.FormsApp.props
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.FormsApp.props
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.FormsApp.props
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/scopedcss/bundle/FormsApp.styles.css
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/scopedcss/projectbundle/FormsApp.bundle.scp.css
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.dll
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/refint/FormsApp.dll
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.pdb
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/FormsApp.genruntimeconfig.cache
+/Users/atakanberkantbasar/Desktop/AspNEt/FormsApp/obj/Debug/net7.0/ref/FormsApp.dll
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\bin\Debug\net7.0\FormsApp.staticwebassets.runtime.json
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\bin\Debug\net7.0\FormsApp.exe
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\bin\Debug\net7.0\FormsApp.deps.json
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\bin\Debug\net7.0\FormsApp.runtimeconfig.json
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\bin\Debug\net7.0\FormsApp.dll
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\bin\Debug\net7.0\FormsApp.pdb
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfoInputs.cache
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfo.cs
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cache
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cs
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FormsApp.props
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FormsApp.props
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FormsApp.props
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\scopedcss\bundle\FormsApp.styles.css
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\scopedcss\projectbundle\FormsApp.bundle.scp.css
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.dll
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\refint\FormsApp.dll
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.pdb
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\FormsApp.genruntimeconfig.cache
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\FormsApp\obj\Debug\net7.0\ref\FormsApp.dll
